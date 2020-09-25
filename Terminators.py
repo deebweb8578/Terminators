@@ -58,11 +58,11 @@ logo ="""
 \x1b[1;94m╋╋┃┃┃┃━┫┃┃┃┃┃┃┃┃┃┏┓┃┗┫┗┛┃┃┣━━┃
 \x1b[1;94m╋╋┗┛┗━━┻┛┗┻┻┻┻┛┗┻┛┗┻━┻━━┻┛┗━━┛
 \x1b[1;97m--------------------------------------------------------------
-\x1b[1;94mâž£  Team : The Terminators
-\x1b[1;94mâž£  Note     : Dont ReEdit It 
-\x1b[1;94mâž£  Team link : https://www.facebook.com/groups/the.terminators.1
-\x1b[1;94mâž£  Note     : Having Problem? Contact Me On Facebook Group.
-\x1b[1;94mâž£  Disclamiar : This Is For Educational Purpose Only.
+\x1b[1;94m  Team : The Terminators
+\x1b[1;94m  Note     : Dont ReEdit It 
+\x1b[1;94m  Team link : https://www.facebook.com/groups/the.terminators.1
+\x1b[1;94m  Note     : Having Problem? Contact Me On Facebook Group.
+\x1b[1;94m   Disclamiar : This Is For Educational Purpose Only.
 \x1b[1;97m--------------------------------------------------------------"""
 def tik():
 	titik = ['.   ','..  ','... ']
